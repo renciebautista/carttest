@@ -1,0 +1,14 @@
+D:\visual studio.dev\makati med\CartTest\CartTest\bin\Debug\CartTest.exe.config
+D:\visual studio.dev\makati med\CartTest\CartTest\bin\Debug\CartTest.exe
+D:\visual studio.dev\makati med\CartTest\CartTest\bin\Debug\CartTest.pdb
+D:\visual studio.dev\makati med\CartTest\CartTest\bin\Debug\DataManagerCommonClasses.dll
+D:\visual studio.dev\makati med\CartTest\CartTest\bin\Debug\La7CartBase.dll
+D:\visual studio.dev\makati med\CartTest\CartTest\bin\Debug\La7UsbClr.dll
+D:\visual studio.dev\makati med\CartTest\CartTest\bin\Debug\LockAlertCommonClasses.dll
+D:\visual studio.dev\makati med\CartTest\CartTest\bin\Debug\SecureRxDatabaseXML.dll
+D:\visual studio.dev\makati med\CartTest\CartTest\obj\Debug\CartTest.NetLa71Main.resources
+D:\visual studio.dev\makati med\CartTest\CartTest\obj\Debug\CartTest.Properties.Resources.resources
+D:\visual studio.dev\makati med\CartTest\CartTest\obj\Debug\CartTest.csproj.GenerateResource.Cache
+D:\visual studio.dev\makati med\CartTest\CartTest\obj\Debug\CartTest.exe
+D:\visual studio.dev\makati med\CartTest\CartTest\obj\Debug\CartTest.pdb
+D:\visual studio.dev\makati med\CartTest\CartTest\obj\Debug\CartTest.csprojResolveAssemblyReference.cache
